@@ -1,0 +1,15 @@
+/home/rohan/projects/c#/RpgGame/bin/Debug/net6.0/RpgGame
+/home/rohan/projects/c#/RpgGame/bin/Debug/net6.0/RpgGame.deps.json
+/home/rohan/projects/c#/RpgGame/bin/Debug/net6.0/RpgGame.runtimeconfig.json
+/home/rohan/projects/c#/RpgGame/bin/Debug/net6.0/RpgGame.dll
+/home/rohan/projects/c#/RpgGame/bin/Debug/net6.0/ref/RpgGame.dll
+/home/rohan/projects/c#/RpgGame/bin/Debug/net6.0/RpgGame.pdb
+/home/rohan/projects/c#/RpgGame/obj/Debug/net6.0/RpgGame.csproj.AssemblyReference.cache
+/home/rohan/projects/c#/RpgGame/obj/Debug/net6.0/RpgGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/rohan/projects/c#/RpgGame/obj/Debug/net6.0/RpgGame.AssemblyInfoInputs.cache
+/home/rohan/projects/c#/RpgGame/obj/Debug/net6.0/RpgGame.AssemblyInfo.cs
+/home/rohan/projects/c#/RpgGame/obj/Debug/net6.0/RpgGame.csproj.CoreCompileInputs.cache
+/home/rohan/projects/c#/RpgGame/obj/Debug/net6.0/RpgGame.dll
+/home/rohan/projects/c#/RpgGame/obj/Debug/net6.0/ref/RpgGame.dll
+/home/rohan/projects/c#/RpgGame/obj/Debug/net6.0/RpgGame.pdb
+/home/rohan/projects/c#/RpgGame/obj/Debug/net6.0/RpgGame.genruntimeconfig.cache
